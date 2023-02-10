@@ -6,9 +6,9 @@ For this project we are displaying a table of UFO sighting data using HTML, CSS,
 
 
 ## Results
-<image>
+![List](Challenge/web/static/images/List.png)
 We can search Date, City, State, Country, and Shape data from the sighting and have data that matches the searches be the only results that appear in the table. In order to do this we type in what criteria we want searched for then move the cursor out of the box for the page to apply the filter.
-<image>
+![List_filter](Challenge/web/static/images/List_filter.png)
 
 ## Summary
 	
